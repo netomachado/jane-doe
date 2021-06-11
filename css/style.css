@@ -45,6 +45,30 @@ ul.anchor-block li a {
     width: 100%;
 }
 
+#about {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+#about img {
+    max-width: 300px;
+    width: 100%;
+}
+
+#contact {
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#contact div {
+    border-bottom: solid 1 px black;
+}
+
 iframe {
     height: 360px;
     width: 640px;
@@ -52,7 +76,7 @@ iframe {
 
 footer {
     text-align: center;
-    background-color: #f2f2f2;
+    background-color: #f2f2f29a;
     margin-top: 0;
     padding: 8px 0;
 }
