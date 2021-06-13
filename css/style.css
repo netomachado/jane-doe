@@ -58,15 +58,19 @@ ul.anchor-block li a {
     width: 100%;
 }
 
-#contact {
+.contact {
     text-align: left;
     max-width: 800px;
     margin: 0 auto;
     width: 100%;
 }
 
-#contact div {
-    border-bottom: solid 1 px black;
+.team {
+    border-bottom: solid 1 px gray;
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
 }
 
 iframe {
